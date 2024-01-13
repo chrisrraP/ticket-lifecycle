@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/chrisrraP/ticket-lifecycle/blob/main/Ticket%20Intake2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Upon login of the agent portal, you should see tickets. If not, you may have to log back in as an admin and reset the agent's permissions and departments.
