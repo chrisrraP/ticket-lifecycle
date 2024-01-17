@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://github.com/chrisrraP/ticket-lifecycle/blob/main/Ticket%20Intake2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/An7e1Rd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Upon login of the agent portal, you should see tickets. If not, you may have to log back in as an admin and reset the agent's permissions and departments. All tickets assigned to the agent will be on this screen. 
