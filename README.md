@@ -42,7 +42,7 @@ The ticket gets assigned to an agent, along with priority settings and other tic
 <br />
 
 <p>
-<img src="https://github.com/chrisrraP/ticket-lifecycle/blob/main/Reply%20to%20User.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hp1qPsS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://github.com/chrisrraP/ticket-lifecycle/blob/main/Resolved%20Ticket.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
