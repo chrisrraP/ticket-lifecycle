@@ -34,7 +34,7 @@ Upon login of the agent portal, you should see tickets. If not, you may have to 
 <br />
 
 <p>
-<img src="https://github.com/chrisrraP/ticket-lifecycle/blob/main/Ticket%20Assigned.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MfIk5LV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The ticket gets assigned to an agent, along with priority settings and other ticket notes.
